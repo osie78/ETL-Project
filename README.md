@@ -1,6 +1,6 @@
 # ETL-Project Group 2
 ## Objective
-    Obtain datasets from two sources to determine the progress on vaccination against COVID-19 for each state in the United States. 
+Obtain datasets from two sources to determine the progress on vaccination against COVID-19 for each state in the United States. 
 
 ## How?
 Downloaded two dataset from two different sources:
@@ -16,4 +16,3 @@ Downloaded two dataset from two different sources:
 * <span style="color:green"> **Blanca de Leon** 
 * <span style="color:blue"> **Jon Argoitia** 
 * <span style="color:red">**Oscar Sanguino** 
-*  
