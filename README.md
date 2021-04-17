@@ -3,9 +3,9 @@
     Obtain datasets from two sources to determine the progress on vaccination against COVID-19 for each state in the United States. 
 
 ## How?
-    Downloaded two dataset from two different sources:
-    * data.world
-    * kaggle.com
+Downloaded two dataset from two different sources:
+* data.world
+* kaggle.com
 
     From data.world a data set of total population by state was obtained. This dataset was then combined with a dataset reporting progress on vaccination per each state, starting on Jan, 2021. With these two datasets, the progress on vaccination per state can be tracked. All data is stored in a database. From the database, total people vaccinated per state and per month can be obtained. 
 
